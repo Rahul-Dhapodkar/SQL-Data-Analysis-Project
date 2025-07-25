@@ -15,4 +15,4 @@ Hi there! I'm **Rahul Dhapodkar**. I’m an IT professional and passionate Data 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn](https://www.linkedin.com/in/rahul-dhapodkar-81753630b/)
+[![LinkedIn]([https://www.linkedin.com/in/rahul-dhapodkar-81753630b/])
